@@ -1,2 +1,2 @@
 # courserta-testing
-This repository is used for Coursera Git Testing
+I am editing the README file. Adding some more details about the project description.
